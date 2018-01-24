@@ -18,7 +18,7 @@
   "author": "Loy B. <lonord@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "@lonord/net-get-interface": "^1.0.1"
+    "@lonord/net-get-interface": "^1.0.3"
   },
   "devDependencies": {
     "rimraf": "^2.6.2"
