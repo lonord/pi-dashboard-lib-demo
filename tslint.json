@@ -18,7 +18,12 @@
             true,
             "tabs"
         ],
-        "no-console": false
+        "no-console": false,
+        "interface-name": false,
+        "radix": false,
+        "trailing-comma": false,
+        "align": false,
+        "no-unused-expression": false
     },
     "rulesDirectory": []
 }
