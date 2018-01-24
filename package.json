@@ -1,0 +1,26 @@
+{
+  "name": "net-demo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Demo of net-libs",
+  "main": "lib/",
+  "scripts": {
+    "start": "rimraf lib && tsc -d && node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@lonord.name:/~/net-demo.git"
+  },
+  "keywords": [
+    "net",
+    "demo"
+  ],
+  "author": "Loy B. <lonord@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@lonord/net-get-interface": "^1.0.1"
+  },
+  "devDependencies": {
+    "rimraf": "^2.6.2"
+  }
+}
