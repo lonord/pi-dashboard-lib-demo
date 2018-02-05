@@ -1,18 +1,18 @@
 {
-  "name": "net-demo",
+  "name": "pi-dashboard-lib-demo",
   "private": true,
   "version": "1.0.0",
-  "description": "Demo of net-libs",
+  "description": "Demo of pi-dashboard-libs",
   "main": "lib/",
   "scripts": {
     "start": "rimraf lib && tsc -d && node lib/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@lonord.name:/~/net-demo.git"
+    "url": "ssh://git@lonord.name:/~/pi-dashboard-lib-demo.git"
   },
   "keywords": [
-    "net",
+    "pi",
     "demo"
   ],
   "author": "Loy B. <lonord@qq.com>",
