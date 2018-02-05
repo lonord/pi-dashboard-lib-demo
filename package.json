@@ -5,7 +5,8 @@
   "description": "Demo of pi-dashboard-libs",
   "main": "lib/",
   "scripts": {
-    "start": "rimraf lib && tsc -d && node lib/index.js"
+    "build": "rimraf lib && tsc -d",
+    "start": "node lib/index.js"
   },
   "repository": {
     "type": "git",
