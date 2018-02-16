@@ -19,9 +19,9 @@
   "author": "Loy B. <lonord@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "@lonord/disk-util": "^1.0.4",
+    "@lonord/disk-util": "^2.0.0",
     "@lonord/net-get-interface": "^1.0.4",
-    "@lonord/net-traffic-monitor": "^1.0.0"
+    "@lonord/net-traffic-monitor": "^2.0.1"
   },
   "devDependencies": {
     "rimraf": "^2.6.2"
